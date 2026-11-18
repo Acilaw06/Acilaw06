@@ -5,4 +5,4 @@
 
 ## Applications
 
-[![My Skills](https://skillicons.dev/icons?i=docker)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=docker,proxmox)](https://skillicons.dev)
